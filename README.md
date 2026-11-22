@@ -44,7 +44,7 @@ It will not write placeholder tests, `assert True`, or expected values copied fr
 ## More skills
 
 - **[Claude Code Skills Pack](https://daillyteen.gumroad.com/l/wapct)**: this skill plus 5 more dev skills (commit messages, PR descriptions, docstrings, `.env.example` generation, Dockerfile optimizer).
-- **[SkillNest](https://skillnest.dev)**: a searchable directory of 580+ free Claude Code skills.
+- **[SkillNest](https://skillnest.dev)**: a searchable directory of 560+ free Claude Code skills.
 
 ## License
 
